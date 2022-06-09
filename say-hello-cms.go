@@ -1,5 +1,5 @@
 package cms_go
 
 func SayHelloCms() string {
-	return "hello"
+	return "hello cms epay"
 }
