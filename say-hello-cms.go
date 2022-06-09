@@ -1,5 +1,5 @@
 package cms_go
 
-func SayHelloCms(name string) string {
+func SayHelloCmsTest(name string) string {
 	return "hello cms epay" + name
 }
